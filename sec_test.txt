@@ -1,1 +1,4 @@
-deleted teh old line and added new
+
+Adding  new lines and deleted the old line.
+
+This is entirely new content.`
